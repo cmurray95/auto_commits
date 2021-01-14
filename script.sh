@@ -1,3 +1,6 @@
+# Usage: Clone repo you wish to commit to. 
+# Add script to root of local repo then run script
+
 #!/bin/bash
 FILE=data.txt
 
